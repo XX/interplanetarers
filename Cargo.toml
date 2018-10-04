@@ -1,0 +1,9 @@
+[package]
+name = "interplanetarers"
+version = "0.1.0"
+authors = ["XX <freecoder.xx@gmail.com>"]
+
+[dependencies]
+gl = "0.10"
+glfw = "0.25"
+cgmath = "0.16"
